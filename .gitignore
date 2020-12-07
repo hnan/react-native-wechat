@@ -1,0 +1,10 @@
+.idea
+package-lock.json
+
+.DS_Store
+node_modules
+/android/build
+/android/RCTWeChat.iml
+
+# ios
+ios/build
